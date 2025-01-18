@@ -120,13 +120,13 @@ This project aims to predict life expectancy using a machine learning model base
 
 ## 📈 Results and Visualizations
 
-| ![Missing Data Heatmap](images/missing_data_heatmap.png) | ![Scatter Plot Example](images/scatter_plot_example.png) |
+| ![Missing Data Heatmap](images/life_expectancy_heatmap.png) | ![Scatter Plot Example](images/life_expectancy_histogram.png) |
 |:--------------------------------------------------------:|:---------------------------------------------------------:|
-| **Missing Data Heatmap**                                 | **Scatter Plot Example**                                  |
+| **Missing Data Heatmap**                                 | **Histogram Example**                                  |
 
-| ![Model Performance Metrics](images/performance_metrics.png) |
-|:-----------------------------------------------------------:|
-| **Model Performance Metrics**                              |
+| ![Model Performance Metrics](images/life_expectancy_scores.png) | ![Corrected Data Heatmap](images/life_expectancy_isnull.png) |
+|:-----------------------------------------------------------:|:---------------------------------------------------------:|
+| **Model Performance Metrics**                              | **Corrected Data Heatmap**                                  |
 
 ---
 
